@@ -1,5 +1,4 @@
-# User Management Interface
-
+# Text Search
 This project is about building a text search UI.
 
 ## Technologies used
